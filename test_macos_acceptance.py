@@ -279,6 +279,10 @@ def gui_checks(args):
             callback_errors = []
             root.report_callback_exception = lambda *exc: callback_errors.append("".join(traceback.format_exception(*exc)))
             ui = live()
+            root.update()
+            check_dialog(root, "main")
+            assert root.winfo_width() <= root.winfo_screenwidth() - 32
+            assert root.winfo_height() <= root.winfo_screenheight() - 100
             ui["output"].set(str(args.work / "GUI результаты"))
             pump_until(lambda: ui["information"].notice_window is not None,
                        description="first-launch local notice")

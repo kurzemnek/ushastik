@@ -55,8 +55,14 @@ class ApplicationInfo:
         dialog.transient(self.root)
         icon(dialog)
         self.root.update_idletasks()
+        if sys.platform == "darwin":
+            width = min(width, self.root.winfo_screenwidth() - 48)
+            height = min(height, self.root.winfo_screenheight() - 128)
         x = max(0, self.root.winfo_rootx() + (self.root.winfo_width() - width) // 2)
         y = max(0, self.root.winfo_rooty() + (self.root.winfo_height() - height) // 2)
+        if sys.platform == "darwin":
+            x = min(x, max(0, self.root.winfo_screenwidth() - width - 24))
+            y = min(y, max(0, self.root.winfo_screenheight() - height - 100))
         dialog.geometry(f"{width}x{height}+{x}+{y}")
         return dialog
 
