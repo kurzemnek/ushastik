@@ -1,0 +1,5 @@
+{
+  "segmentation": "pyannote segmentation3.0, public official sherpa conversion",
+  "embedding": "https://github.com/k2-fsa/sherpa-onnx/releases/download/speaker-recongition-models/3dspeaker_speech_eres2netv2_sv_zh-cn_16k-common.onnx",
+  "runtime": "sherpa-onnx 2.0.1"
+}
