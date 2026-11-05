@@ -15,6 +15,7 @@ import os
 from pathlib import Path
 import platform
 import plistlib
+import signal
 import socket
 import subprocess
 import sys
@@ -38,11 +39,22 @@ def read_json(path):
 
 def stop_child(child):
     if child.poll() is None:
-        child.terminate()
+        # Top-level launches own a process group. Killing a timed-out GUI also
+        # stops its inherited worker group; workers stopped inside the GUI are
+        # signalled individually so the acceptance process stays alive.
+        def send(sig):
+            try:
+                if os.getpgid(child.pid) == child.pid:
+                    os.killpg(child.pid, sig)
+                else:
+                    child.send_signal(sig)
+            except ProcessLookupError:
+                pass
+        send(signal.SIGTERM)
         try:
             child.wait(8)
         except subprocess.TimeoutExpired:
-            child.kill()
+            send(signal.SIGKILL)
             child.wait(8)
 
 
@@ -102,7 +114,8 @@ def run_job(binary, work, env, paths, *, diarize=False, split=False):
     started = time.monotonic()
     with (directory / "worker.log").open("w", encoding="utf-8") as log:
         child = subprocess.Popen(SANDBOX + [str(binary), "--worker", str(directory / "job.json")],
-                                 env=env, stdin=subprocess.DEVNULL, stdout=log, stderr=log)
+                                 env=env, stdin=subprocess.DEVNULL, stdout=log, stderr=log,
+                                 start_new_session=True)
         try:
             child.wait(JOB_TIMEOUT)
         finally:
@@ -222,6 +235,7 @@ def gui_checks(args):
                 deadline = time.monotonic() + timeout
                 while True:
                     root.update()
+                    assert not callback_errors, "\n".join(callback_errors)
                     if predicate():
                         return
                     assert time.monotonic() < deadline, f"Timed out: {description}"
@@ -235,13 +249,17 @@ def gui_checks(args):
 
             def screenshot(name):
                 target = args.work / (name + ".png")
-                result = subprocess.run(["/usr/sbin/screencapture", "-x", str(target)],
-                                        capture_output=True, text=True, timeout=15)
+                try:
+                    result = subprocess.run(["/usr/sbin/screencapture", "-x", str(target)],
+                                            capture_output=True, text=True, timeout=15)
+                except (OSError, subprocess.TimeoutExpired) as exc:
+                    screenshots[name] = {"unavailable": str(exc)}
+                    return
                 screenshots[name] = str(target) if result.returncode == 0 and target.is_file() else {
                     "unavailable": result.stderr[-600:] or "No screenshot file; screen-recording permission may be absent"}
 
             def check_dialog(dialog, name):
-                root.update_idletasks()
+                root.update()
                 bounds = (dialog.winfo_width(), dialog.winfo_height())
                 assert bounds[0] <= root.winfo_screenwidth() and bounds[1] <= root.winfo_screenheight(), bounds
                 clipped = []
@@ -288,7 +306,7 @@ def gui_checks(args):
             drop = ui["drop"]
             registered = [c for c in drop._tclCommands if c.endswith("drop_files")]
             assert len(registered) == 1, registered
-            placeholders = drop._subst_format_dnd
+            placeholders = tuple(p.strip("{}") for p in drop._subst_format_dnd)
             values = {"%A": "copy", "%a": ("copy",), "%b": "1", "%C": ("DND_Files",),
                       "%c": ("DND_Files",), "%CST": ("DND_Files",), "%CTT": ("DND_Files",),
                       "%D": (str(args.fixtures / "диалог 2 голоса.wav"),), "%e": "<<Drop>>",
@@ -398,7 +416,8 @@ def frozen_gui_smoke(args, env):
     log_path = args.work / "frozen-gui.log"
     with log_path.open("w", encoding="utf-8") as log:
         child = subprocess.Popen(SANDBOX + [str(args.binary)], env=env,
-                                 stdin=subprocess.DEVNULL, stdout=log, stderr=log)
+                                 stdin=subprocess.DEVNULL, stdout=log, stderr=log,
+                                 start_new_session=True)
         try:
             time.sleep(4)
             assert child.poll() is None, log_path.read_text(encoding="utf-8")[-6000:]
@@ -456,7 +475,8 @@ def main():
             gui_cmd = [sys.executable, str(Path(__file__).resolve()), "--app", str(args.app),
                        "--work", str(gui_work), "--fixtures", str(args.fixtures), "--gui-child"]
             with (args.work / "gui.log").open("w", encoding="utf-8") as log:
-                child = subprocess.Popen(gui_cmd, env=env, stdin=subprocess.DEVNULL, stdout=log, stderr=log)
+                child = subprocess.Popen(gui_cmd, env=env, stdin=subprocess.DEVNULL, stdout=log, stderr=log,
+                                         start_new_session=True)
                 try:
                     child.wait(2 * JOB_TIMEOUT + 120)
                 finally:
