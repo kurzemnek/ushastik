@@ -1,0 +1,4 @@
+faster-whisper==1.2.1
+tkinterdnd2==0.7.0
+pyinstaller==6.22.3
+sherpa-onnx==2.0.1

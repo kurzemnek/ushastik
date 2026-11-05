@@ -1,0 +1,6 @@
+# Mac builds use their own native wheels; never reuse the Windows lockfile.
+ctranslate2==4.8.5
+av==18.1.0
+numpy==2.4.6
+# Newer ORT releases no longer publish macOS Intel wheels.
+onnxruntime==1.23.2

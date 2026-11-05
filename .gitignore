@@ -1,0 +1,10 @@
+__pycache__/
+model/
+dist/
+build/
+*.spec
+speaker-model/
+.build/
+.venv/
+acceptance/
+*.zip

@@ -1,0 +1,16 @@
+Сборка Ушастика для macOS 15+
+Нативные сборки arm64 и x86_64 выполняются раздельно на macOS.
+Python 3.11 / Tcl-Tk 8.6; модели и лицензии включаются до подписи.
+
+python -m pip install -r requirements.txt -c macos/constraints.txt
+python fetch_models.py
+python build_macos.py --arch arm64
+python test_macos_acceptance.py --app dist/Ушастик.app --work acceptance --fixtures fixtures
+
+На Intel вместо arm64 указать x86_64. Готовый ZIP лежит в dist.
+GitHub Actions выполняет эти команды на двух настоящих Mac, не публикует релиз
+и сохраняет приватные артефакты на 7 дней. Встроенный тест запускает worker
+под OS-профилем deny network, проверяет модели, подпись, текст, голоса и GUI.
+Интернет нужен во время подготовки зависимостей и моделей, а не при работе .app.
+Ad-hoc подпись служит для тестовой сборки. Developer ID/notarization в этой задаче
+не настроены. Для испытания Gatekeeper на другом Mac нужен отдельный запуск.
