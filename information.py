@@ -43,7 +43,7 @@ class ApplicationInfo:
 
     def button(self, parent, text, command):
         import tkinter as tk
-        return tk.Button(parent, text=text, command=command, bg=GREEN, fg=PAPER,
+        return tk.Button(parent, text=text, command=command, bg=GREEN, fg=GREEN if sys.platform == "darwin" else PAPER,
                          activebackground="#254B38", activeforeground=PAPER, relief="flat", bd=0,
                          padx=22, pady=10, cursor="hand2", font=(self.font, 11, "bold"))
 

@@ -72,9 +72,11 @@ def gui(paths=()):
                         font=(font, size, "bold" if bold else "normal"), **kwargs)
 
     def button(parent, text, command, primary=False, small=False):
+        # Aqua draws its own light button face and ignores Tk's background.
+        primary_ink = GREEN if sys.platform == "darwin" else PAPER
         return tk.Button(parent, text=text, command=command,
             font=(font, 10 if small else 11, "bold" if primary else "normal"),
-            bg=GREEN if primary else GREEN_LIGHT, fg=PAPER if primary else GREEN,
+            bg=GREEN if primary else GREEN_LIGHT, fg=primary_ink if primary else GREEN,
             activebackground="#254B38" if primary else "#DBE7DA", activeforeground=PAPER if primary else GREEN,
             bd=0, padx=13 if small else 20, pady=8 if small else 11, cursor="hand2", relief="flat",
             disabledforeground="#909C92", highlightthickness=1, highlightbackground=LINE, highlightcolor=ORANGE)
