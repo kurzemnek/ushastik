@@ -262,6 +262,8 @@ def gui_checks(args):
                 root.update()
                 bounds = (dialog.winfo_width(), dialog.winfo_height())
                 assert bounds[0] <= root.winfo_screenwidth() and bounds[1] <= root.winfo_screenheight(), bounds
+                assert dialog.winfo_rootx() + bounds[0] <= root.winfo_screenwidth() - 12, (name, "right screen edge")
+                assert dialog.winfo_rooty() + bounds[1] <= root.winfo_screenheight() - 64, (name, "Dock overlap")
                 clipped = []
                 for widget in descendants(dialog):
                     if not widget.winfo_ismapped():

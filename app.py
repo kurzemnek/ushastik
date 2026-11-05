@@ -31,7 +31,7 @@ def gui(paths=()):
     compact = sys.platform == "darwin" and (root.winfo_screenwidth() < 1200 or root.winfo_screenheight() < 900)
     if sys.platform == "darwin":
         width, height = min(1180, root.winfo_screenwidth() - 64), min(820, root.winfo_screenheight() - 128)
-        root.geometry(f"{width}x{height}")
+        root.geometry(f"{width}x{height}+{(root.winfo_screenwidth() - width) // 2}+24")
         root.minsize(min(1040, width), min(740, height))
     else:
         root.geometry("1180x820")
