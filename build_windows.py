@@ -45,5 +45,10 @@ for package in importlib.metadata.distributions():
             if real.is_file():
                 name = package.metadata["Name"] + "-" + "-".join(f.parts[-2:])
                 shutil.copy2(real, notices / name)
+# Some wheels keep notices outside .dist-info, or omit native codec notices.
+# Keep the reviewed component license pack with every subsequent build too.
+shutil.copytree(source / "licenses", notices / "component-licenses", dirs_exist_ok=True)
+for filename in ("LICENSE", "THIRD_PARTY_NOTICES.md"):
+    shutil.copy2(source / filename, notices / filename)
 (target / "dependencies.json").write_text(json.dumps({p.metadata["Name"]: p.version for p in importlib.metadata.distributions()}, indent=2), encoding="utf-8")
 print(str(target))

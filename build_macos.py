@@ -102,6 +102,10 @@ def main():
                 path = package.locate_file(file)
                 if path.is_file():
                     shutil.copy2(path, licenses / (package.metadata["Name"] + "-" + "-".join(file.parts[-2:])))
+    # Include the reviewed native-library notices before PyInstaller signs .app.
+    shutil.copytree(source / "licenses", licenses / "component-licenses", dirs_exist_ok=True)
+    for filename in ("LICENSE", "THIRD_PARTY_NOTICES.md"):
+        shutil.copy2(source / filename, licenses / filename)
     hooks = args.work / "hooks"
     hooks.mkdir(exist_ok=True)
     # The upstream hook includes other OS/CPU builds. Keep only this Mac architecture.

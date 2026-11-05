@@ -81,8 +81,12 @@ https://k2-fsa.github.io/sherpa/onnx/speaker-diarization/models.html
 https://github.com/modelscope/3D-Speaker
 Лицензии моделей находятся в _internal/model и _internal/speaker-model.
 Автор интерфейса: Валерий Курземнек / https://kurzemnek.ru
+Полный комплект лицензий компонентов — в папке LICENSES рядом с программой.
+Исходники медиа-компонентов доступны на странице релиза:
+https://github.com/kurzemnek/ushastik/releases/tag/v0.3.1
 
 macOS
-Этот архив предназначен для Windows x64. На Mac файл .exe не запускается.
-Движки поддерживают macOS, но отдельная .app-сборка и её проверка на Mac
-ещё не выполнены. Текущая реализация использует CPU, без Apple GPU/Metal.
+Для Mac доступны отдельные сборки Apple Silicon и Intel, macOS 15+.
+Скачать нужную версию и прочитать актуальную инструкцию:
+https://github.com/kurzemnek/ushastik/releases/latest
+Этот архив предназначен для Windows x64.

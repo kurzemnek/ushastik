@@ -1,0 +1,2495 @@
+[
+  {
+    "path": "CTranslate2-4.8.5-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/OpenNMT/CTranslate2/v4.8.5/LICENSE",
+    "sha256": "54aa79d9fe3c09e67a16dcd95b9e88676405a6ec174efda31036983cf7672ecb",
+    "bytes": 1115,
+    "status": "copied"
+  },
+  {
+    "path": "CTranslate2-thirdparty-cccl-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/NVIDIA/cccl/b5fe509fd11a925f90d6495176707cc1184eed9d/LICENSE",
+    "sha256": "01b767dcd7d36f42efb608076741cf83f154a995e198028cb698aadc3a43b63b",
+    "bytes": 33838,
+    "status": "copied"
+  },
+  {
+    "path": "CTranslate2-thirdparty-cpu_features-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/google/cpu_features/8a494eb1e158ec2050e5f699a504fbc9b896a43b/LICENSE",
+    "sha256": "af272c1b4dd08dd61d43e001d3134119d03ca7a2b057a64f7355fdf27fbea3dd",
+    "bytes": 12876,
+    "status": "copied"
+  },
+  {
+    "path": "CTranslate2-thirdparty-cutlass-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/NVIDIA/cutlass/bbe579a9e3beb6ea6626d9227ec32d0dae119a49/LICENSE.txt",
+    "sha256": "6fc6ad419e4d26571a14c7c4d26b65345865c20dd8686ddcf5e8673f54d3d233",
+    "bytes": 1547,
+    "status": "copied"
+  },
+  {
+    "path": "CTranslate2-thirdparty-cxxopts-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/jarro2783/cxxopts/44380e5a44706ab7347f400698c703eb2a196202/LICENSE",
+    "sha256": "aa324fbe633a96546bebca975fbbab65caa175894bd00cfa13d7335e7363400c",
+    "bytes": 1055,
+    "status": "copied"
+  },
+  {
+    "path": "CTranslate2-thirdparty-ruy-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/google/ruy/363f252289fb7a1fba1703d99196524698cb884d/LICENSE",
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "bytes": 11358,
+    "status": "copied"
+  },
+  {
+    "path": "CTranslate2-thirdparty-spdlog-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/gabime/spdlog/76fb40d95455f249bd70824ecfcae7a8f0930fa3/LICENSE",
+    "sha256": "a7241a379cb98d37788f82c2fc2e484c3ae85dae881fd3406f0637644850926f",
+    "bytes": 1348,
+    "status": "copied"
+  },
+  {
+    "path": "NVIDIA-cuDNN-9.10.2.21-License.txt",
+    "url": "https://files.pythonhosted.org/packages/3d/90/0bd6e586701b3a890fd38aa71c387dab4883d619d6e5ad912ccbd05bfd67/nvidia_cudnn_cu12-9.10.2.21-py3-none-win_amd64.whl",
+    "wheel_member": "nvidia_cudnn_cu12-9.10.2.21.dist-info/licenses/License.txt",
+    "wheel_sha256_expected": "c6288de7d63e6cf62988f0923f96dc339cea362decb1bf5b3141883392a7d65e",
+    "retrieval": "Official pinned wheel member over HTTPS byte ranges; member ZIP CRC verified",
+    "native_dll_version": "9.10.2.21",
+    "sha256": "49cf79bdb35734b52fe6203013b3bd759f81e998cd32aa2c65c51db9a88c61d2",
+    "bytes": 18174,
+    "status": "copied"
+  },
+  {
+    "path": "OpenSSL-3.0.13-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/openssl/openssl/openssl-3.0.13/LICENSE.txt",
+    "sha256": "7d5450cb2d142651b8afa315b5f238efc805dad827d91ba367d8516bc9d49e7a",
+    "bytes": 10175,
+    "status": "copied"
+  },
+  {
+    "path": "Python-3.11.9-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/python/cpython/v3.11.9/LICENSE",
+    "sha256": "3b2f81fe21d181c499c59a256c8e1968455d6689d269aa85373bfb6af41da3bf",
+    "bytes": 13936,
+    "status": "copied"
+  },
+  {
+    "path": "Tcl-8.6.13-license.terms.txt",
+    "url": "https://raw.githubusercontent.com/tcltk/tcl/core-8-6-13/license.terms",
+    "sha256": "c0a69a2bfd757361ec7e6143973b103c90409316b49e9c88db26ad6388e79f16",
+    "bytes": 2255,
+    "status": "copied"
+  },
+  {
+    "path": "Tk-8.6.13-license.terms.txt",
+    "url": "https://raw.githubusercontent.com/tcltk/tk/core-8-6-13/license.terms",
+    "sha256": "2cde822b93ca16ae535c954b7dfe658b4ad10df2a193628d1b358f1765e8b198",
+    "bytes": 2267,
+    "status": "copied"
+  },
+  {
+    "path": "TkDND-2.10.3-license.terms.txt",
+    "url": "https://raw.githubusercontent.com/Squiblydoo/tkdnd/f2b256ecf374595fa20005c479655e9fd72889f8/license.terms",
+    "sha256": "86501f2f0b7dc0ade34deef0cfba930286ec28a12c63949c7417ef53f01aae88",
+    "bytes": 2311,
+    "status": "copied"
+  },
+  {
+    "path": "TkDND-2.9.4-license.terms.txt",
+    "url": "https://raw.githubusercontent.com/petasis/tkdnd/tkdnd-release-test-v2.9.4/license.terms",
+    "sha256": "86501f2f0b7dc0ade34deef0cfba930286ec28a12c63949c7417ef53f01aae88",
+    "bytes": 2311,
+    "status": "copied"
+  },
+  {
+    "path": "flatbuffers-25.12.19-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/google/flatbuffers/v25.12.19/LICENSE",
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "bytes": 11358,
+    "status": "copied"
+  },
+  {
+    "path": "intel-openmp-2025.3.0-intel_openmp-2025.3.0.dist-info--LICENSE.txt",
+    "wheel_member": "intel_openmp-2025.3.0.dist-info/LICENSE.txt",
+    "url": "https://files.pythonhosted.org/packages/79/69/05addedd727061b61a85b4fd989754edb628b5be1cd5d161727f98cf4d86/intel_openmp-2025.3.0-py2.py3-none-win_amd64.whl",
+    "version": "2025.3.0",
+    "wheel_sha256": "8ff899d01a41b92ffe0e618b221ea633127d16df726086082d381c431c31339d",
+    "sha256": "febfb69a5b058f55892dc7f341108a9ca29d50e9fe85723a57eebbb826436958",
+    "bytes": 25224,
+    "status": "copied",
+    "native_binary_match": "Exact SHA-256 of bundled Windows libiomp5md.dll matches official intel-openmp 2025.3.0 wheel"
+  },
+  {
+    "path": "mkl-include-2023.2.0-mkl_include-2023.2.0.dist-info--LICENSE.txt",
+    "wheel_member": "mkl_include-2023.2.0.dist-info/LICENSE.txt",
+    "url": "https://files.pythonhosted.org/packages/01/60/d4449c7e838f4601e715af0c7eee3c2568dfa2916bfbe89d1b684ffb4807/mkl_include-2023.2.0-py2.py3-none-macosx_10_15_x86_64.macosx_11_0_x86_64.whl",
+    "version": "2023.2.0",
+    "wheel_sha256": "39ae28581239bfd5de602d594c09f236a883cded1c7fb6cbeb5eb837207cccfb",
+    "sha256": "7721633d0ddff43fae25ebfd405f8166a0ce730cbcec44f2f3ad9d5eb8ac9a6f",
+    "bytes": 4105,
+    "status": "copied"
+  },
+  {
+    "path": "mkl-include-2025.3.0-mkl_include-2025.3.0.dist-info--LICENSE.txt",
+    "wheel_member": "mkl_include-2025.3.0.dist-info/LICENSE.txt",
+    "url": "https://files.pythonhosted.org/packages/b9/d7/0445e80511e70b653291daaac068712a780ee0e00bb791d047eed0053c4b/mkl_include-2025.3.0-py2.py3-none-win_amd64.whl",
+    "version": "2025.3.0",
+    "wheel_sha256": "d8efcf39c37767c65abdf42976189475bab36f456e5e7e53bab00bc35c6a3209",
+    "sha256": "7721633d0ddff43fae25ebfd405f8166a0ce730cbcec44f2f3ad9d5eb8ac9a6f",
+    "bytes": 4105,
+    "status": "copied"
+  },
+  {
+    "path": "models/model/WHISPER-LICENSE.txt",
+    "origin": "Pinned model conversion distribution notice",
+    "sha256": "b5d65a59060e68c4ff940e1eddfa6f94b2d68fdf58ed7f4dd57721c997e35e9d",
+    "bytes": 1063,
+    "status": "copied"
+  },
+  {
+    "path": "models/speaker-model/EMBEDDING-LICENSE.txt",
+    "origin": "Pinned model conversion distribution notice",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "bytes": 11357,
+    "status": "copied"
+  },
+  {
+    "path": "models/speaker-model/RUNTIME-LICENSE.txt",
+    "origin": "Pinned model conversion distribution notice",
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "bytes": 11358,
+    "status": "copied"
+  },
+  {
+    "path": "models/speaker-model/SEGMENTATION-LICENSE.txt",
+    "origin": "Pinned model conversion distribution notice",
+    "sha256": "14d7016ad68e7394d6e6b78d96cc2ae431c905287b89674cfdf021e79e62b8ba",
+    "bytes": 1061,
+    "status": "copied"
+  },
+  {
+    "path": "native/alsa-lib/alsa-lib-1.2.14/COPYING",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "32434afcc8666ba060e111d715bfdb6c2d5dd8a35fa4d3ab8ad67d8f850d2f2b",
+    "bytes": 26440,
+    "status": "copied"
+  },
+  {
+    "path": "native/alsa-lib/alsa-lib-1.2.14/aserver/COPYING",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "bfe16cf823bcff261fc6a062c07ee96660e3c39678f42f39a788a68dbc234ced",
+    "bytes": 18010,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/components/AMFXInput.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "41303e3038e8e5717e174cd3e37625163d244bd3ed0bc2d47d8ad347cce65cc5",
+    "bytes": 6321,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/components/Ambisonic2SRenderer.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "27770ae77d2f7a16eca9ab1f8b9ce87cf0c0350425b950bdd39189c2c91a519a",
+    "bytes": 4333,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/components/AudioCapture.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "05a9ebc32217e69b6c4659f4744dbda9e5a2792f3e56bc1bcf61c15dcfd46cab",
+    "bytes": 4633,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/components/Capture.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "bbe91a1e744685a36269d3b6af9cd36d9716ee748c8d0ed95255a6a42b46892f",
+    "bytes": 10327,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/components/ChromaKey.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "a3a89490d44adaffc2fa2cccc14313f8f65e5af7a6431d89d85bd80e36c628a1",
+    "bytes": 4937,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/components/ColorSpace.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "4ef6392bb4b9c6b05d00b5cd1486b99866e40e61449206a3a515063e4ffd289b",
+    "bytes": 9453,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/components/Component.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "f3f18680d55a65fdf5e0351d3fde1dcd9bdd2d6caec268c8c915c4227ffa1edc",
+    "bytes": 25393,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/components/ComponentCaps.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "2479eb2a6174a1b63552c509abac1b701eddcab5a5eac5a7f4d9f40274d588b4",
+    "bytes": 8420,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/components/CursorCapture.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "7c22337ff313320bd7fe20ef0fb00756735012367a5daa7c621725030f578863",
+    "bytes": 2486,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/components/DisplayCapture.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "9c661b9d23dc240e59758246865d8a3a3162b5c61077b54417d07bb0b9d2fa2c",
+    "bytes": 5734,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/components/FFMPEGAudioConverter.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "9dde7e850c8bdecda82b0cee1b331294f6cc91b32b1d1504344a023cd4dda8af",
+    "bytes": 3586,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/components/FFMPEGAudioDecoder.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "92f50d789bc18d5ebd143b2925e124594a89110eef7efaa8189eb063bf2f3aa8",
+    "bytes": 4358,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/components/FFMPEGAudioEncoder.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "2493067de9b3f540ffaae8a6466e57ef75af4772f037a81785b11ee9511029f5",
+    "bytes": 4131,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/components/FFMPEGComponents.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "87a9ae9480c3af6210b1282d1768e36673fcc1ef4970afa6edaa74481cf0831b",
+    "bytes": 2374,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/components/FFMPEGEncoderAV1.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "5d64b7d2d50ca17ba601885dcdb51bb16ef4dccf88323437967e8524f26194bc",
+    "bytes": 2141,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/components/FFMPEGEncoderH264.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "3dae38db05bc55af525000c28559ff76625e0cddc2ad2c4c2af52eab69e915bc",
+    "bytes": 2149,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/components/FFMPEGEncoderHEVC.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "3ad5cc5d3284b253a671499efa29c7a46b83a6e6373aad7142c7adcbfae31875",
+    "bytes": 2149,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/components/FFMPEGFileDemuxer.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "be992e14086b04e2a7b5503471a6c262c58fda163c45ad6d00f8e425d9f4a820",
+    "bytes": 3631,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/components/FFMPEGFileMuxer.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "3fefbe1aa7aaa4c000a97efb2e5ba26dc87ec15d11b07ceb0f43c768a1d589a2",
+    "bytes": 2948,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/components/FFMPEGVideoDecoder.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "297b0ab2291baeb44f30f03ffbf791a5603289ab34f625d60a33150f2be1f7b6",
+    "bytes": 3036,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/components/FRC.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "1aa006ed84ff6be7d9283379a6688f003c4a25df0673c07096eb74e99b1989cb",
+    "bytes": 3719,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/components/HQScaler.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "b63e856b55db7a6853f444a6d4d32cfe006d9e0fb1d9be1b3079557534738591",
+    "bytes": 3700,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/components/MediaSource.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "c4e168d29e3f7d9318435958c3c784ad4c497159a617bd7a5598a2951b1b15f6",
+    "bytes": 3680,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/components/PreAnalysis.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "6824fd31dc6a42ad4e1cce29bd2bf190e769d6d5a4427fba57cefa697c9a9bd7",
+    "bytes": 7763,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/components/PreProcessing.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "5a01d71e128cf8bcaa4945fe76d9aad0156c409df3b25616a75645ef15972dc3",
+    "bytes": 3736,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/components/SupportedCodecs.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "550900e56c8254bf9c42d1b1d6538a390f7f7d3bf4826ee385b019585cb6cd22",
+    "bytes": 2895,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/components/VQEnhancer.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "146e7cd35acc846f6b75b696bbe13a5d790f885bc23d9913e7de66f515da789b",
+    "bytes": 2633,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/components/VideoCapture.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "08f0162a631833f847d1b4b751e41e28b147a79ed19545b43631222d22e74507",
+    "bytes": 2863,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/components/VideoConverter.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "465a8d620f61aa2ada6b3034fa2e67e9651dec3e6b402411e09c146ad2bac619",
+    "bytes": 8788,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/components/VideoDecoderUVD.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "588622f7d945c85c1ed334b497174fd46031e01664338bcf59c4b242920df886",
+    "bytes": 10062,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/components/VideoEncoderAV1.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "2c4e18f6d0be4701d9a9d9ad4298ed5d7ed7c1fd7a909995c4e745874d8203a0",
+    "bytes": 35845,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/components/VideoEncoderHEVC.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "138ad005e4b7131582fc1f82dad8851c1362f0d156bf62f10a64e462c8a037c0",
+    "bytes": 29453,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/components/VideoEncoderVCE.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "8dcddd6df00debd096db29f00fa155e3e179ebc6ea4c6c1edc5027eb857cffd5",
+    "bytes": 31462,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/components/VideoStitch.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "9bc2d8477d67693b0cd4d433fbc6a5812277190f67be5f188f0206b463f256ec",
+    "bytes": 7082,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/components/ZCamLiveStream.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "3c6e6515a8fec111eb1847e349124a8c66c1e78be2d148bc0b8f85b9d9994e2d",
+    "bytes": 4803,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/core/AudioBuffer.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "c9382c911fd3b5e12105c1d2a67eb11e62e9475068825222a285bb1314ac0ddd",
+    "bytes": 11809,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/core/Buffer.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "1ad18d3c813c3f81a836d393bbe86dfc0b7a1d7f04a77a272eb1461ce85ae3a4",
+    "bytes": 10084,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/core/Compute.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "dc35befae2cecf5d2b866632a8b16c2f2ec3a543a6b474f941a33fcd7a8d1e0a",
+    "bytes": 18620,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/core/ComputeFactory.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "50acf69fb670bc6cf093384d1b698bf9e44cda8dd49e02ef24eacfb86ad8ccae",
+    "bytes": 8147,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/core/Context.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "f9b4acb784038aad234ddec490e5f6ad6dacc4b14794eb84f3523d56dc3d6dd2",
+    "bytes": 44321,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/core/CurrentTime.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "76d16ba57d48ae9e457f3d904698a1e7c625007ac8887db9bcecdb90fd36d835",
+    "bytes": 2165,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/core/D3D12AMF.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "f05771305598b534e1efa0dd28825267ea87418c477b198e373f6764d060c666",
+    "bytes": 3512,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/core/Data.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "eaac4d80dd3215638c70f8a4ca01791d26d9df77586f665a772bb51907a8035b",
+    "bytes": 9350,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/core/Debug.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "56666589bf6ad20c6286a048da751c2d7722f70c73d962ee3c205a6d709b6aff",
+    "bytes": 3317,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/core/Dump.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "a5e0fa9290cae767a4d135962ee5e30302e65e8d0ca5e016c620e72b759c86c6",
+    "bytes": 5435,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/core/Factory.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "644814e97dd359f08d66a73748b60262149b106d28423c31b573cecb4be57979",
+    "bytes": 6139,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/core/Interface.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "304f6d6077e9b0733859d44a5e43a343ae374c8fe72c7d79741c0aca89c21162",
+    "bytes": 8345,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/core/Plane.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "5ad5165e9de2afcfc2da828e8704c838b1f82e8ead7422fbcfc32c758672e1f3",
+    "bytes": 5260,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/core/Platform.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "13fae6d4e23720ede67a5002930b4337f60b4fb7639a3c5338a46d7df9e12fff",
+    "bytes": 16535,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/core/PropertyStorage.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "0059b787e78cd7c4e57212ccaab56ad7e17e9474a31337da0eac5b2d056a5dd8",
+    "bytes": 12981,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/core/PropertyStorageEx.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "871136e46586baa1fc77121935b503aaa16523d006c3e435ce50698605675fad",
+    "bytes": 10249,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/core/Result.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "a469ff33875484b5762199da757819056ff4a7535bfdcec1f4cf2ffc403b98f2",
+    "bytes": 5655,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/core/Surface.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "d3f8c41bf2d44e935ca5e77865127670fc9a9476c21c62b5bcaa1eaf0918931b",
+    "bytes": 18356,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/core/Trace.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "ae8c5fee671f02b90d3ccab312cfa6f74424351f070a7dd4ed7aba437fd55c30",
+    "bytes": 9835,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/core/Variant.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "ac63c94d0f3624b4ddaa4164d4eb82d0c7f54723cee9cf035d23e02edd92e333",
+    "bytes": 92063,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/core/Version.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "1edad0a2f23976be06a0566d858990239619f366f6dffbbd26e98bd5308c01f2",
+    "bytes": 2878,
+    "status": "copied"
+  },
+  {
+    "path": "native/amf-headers/amf-headers-v1.5.0/AMF/core/VulkanAMF.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "a7cd8455fb5dd1b7a09bb4a770235d4cde7cf9549a0c6604dc5300e0c5e6ba4e",
+    "bytes": 6319,
+    "status": "copied"
+  },
+  {
+    "path": "native/dav1d/dav1d-1.5.3/COPYING",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "dd92c3c2247c5651606fc23a5e2d6a1ebc5ace9a3e49cbde0e12f05ad1cb1ee5",
+    "bytes": 1317,
+    "status": "copied"
+  },
+  {
+    "path": "native/dav1d/dav1d-1.5.3/doc/PATENTS",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "335eca574598bf4ca181b12f708d6669e5a5e78c8e1513e5b35fa1f03901484b",
+    "bytes": 5730,
+    "status": "copied"
+  },
+  {
+    "path": "native/ffmpeg/ffmpeg-8.1.2/COPYING.GPLv2",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643",
+    "bytes": 18092,
+    "status": "copied"
+  },
+  {
+    "path": "native/ffmpeg/ffmpeg-8.1.2/COPYING.GPLv3",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+    "bytes": 35147,
+    "status": "copied"
+  },
+  {
+    "path": "native/ffmpeg/ffmpeg-8.1.2/COPYING.LGPLv2.1",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "246041b6ecf9bc32d718a62c57877c78b5eb397b6467e74ed7ae2626ab189c30",
+    "bytes": 26517,
+    "status": "copied"
+  },
+  {
+    "path": "native/ffmpeg/ffmpeg-8.1.2/COPYING.LGPLv3",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "da7eabb7bafdf7d3ae5e9f223aa5bdc1eece45ac569dc21b3b037520b4464768",
+    "bytes": 7651,
+    "status": "copied"
+  },
+  {
+    "path": "native/ffmpeg/ffmpeg-8.1.2/LICENSE.md",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "2e1d16c72fd74e12063776371da757322f8b77589386532f4fd8634bde7de1af",
+    "bytes": 4346,
+    "status": "copied"
+  },
+  {
+    "path": "native/ffmpeg/ffmpeg-8.1.2/doc/authors.texi",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "fb5fac6dd8f7474033e933814491a8297d8723c52be4dcbcc82eef9c4f008dd2",
+    "bytes": 403,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/COPYING",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "231f7edcc7352d7734a96eef0b8030f77982678c516876fcb81e25b32d68564c",
+    "bytes": 18002,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/COPYING.LIB",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "a9bdde5616ecdd1e980b44f360600ee8783b1f99b8cc83a2beb163a0a390e861",
+    "bytes": 26527,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/COPYING.RUNTIME",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "9d6b43ce4d8de0c878bf16b54d8e7a10d9bd42b75178153e3af6a815bdc90f74",
+    "bytes": 3324,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/gcc/COPYING",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "231f7edcc7352d7734a96eef0b8030f77982678c516876fcb81e25b32d68564c",
+    "bytes": 18002,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/gcc/COPYING.LIB",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "32434afcc8666ba060e111d715bfdb6c2d5dd8a35fa4d3ab8ad67d8f850d2f2b",
+    "bytes": 26440,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/gcc/ada/doc/share/copyright.tex",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "c0a2678e14049ef3d4ba0d9dd7abf8b0dbb8335d6e2311b2d2f568035321f2b7",
+    "bytes": 695,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/gcc/go/gofrontend/LICENSE",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "2d36597f7117c38b006835ae7f537487207d8ec407aa9d9980794b2030cbc067",
+    "bytes": 1479,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/gcc/go/gofrontend/PATENTS",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "96f408bfae65bf137fc2525d3ecb030271c50c1e90799f87abf8846d8dd505cc",
+    "bytes": 1303,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/gcc/m2/COPYING.FDL",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "4887b107e3d1ace106aa293fe73b4aa9be52edbc5b96e5a9b672c8916fede722",
+    "bytes": 20355,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/gcc/m2/COPYING.RUNTIME",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "145aeebbfd1eda3e31353158311b12478aad06bce8bffc22184f33ce2ffce64f",
+    "bytes": 3329,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/gcc/m2/images/LICENSE.IMG",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "e234bf4bc7276b6f48a0ee9efcbc652ef3072573d996dd590287110adc2f1922",
+    "bytes": 762,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/gcc/rust/checks/errors/borrowck/ffi-polonius/vendor/datafrog/LICENSE-APACHE",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "bytes": 10847,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/gcc/rust/checks/errors/borrowck/ffi-polonius/vendor/datafrog/LICENSE-MIT",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
+    "bytes": 1023,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/gcc/rust/checks/errors/borrowck/ffi-polonius/vendor/log/LICENSE-APACHE",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "bytes": 10847,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/gcc/rust/checks/errors/borrowck/ffi-polonius/vendor/log/LICENSE-MIT",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "6485b8ed310d3f0340bf1ad1f47645069ce4069dcc6bb46c7d5c6faf41de1fdb",
+    "bytes": 1071,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/gcc/rust/checks/errors/borrowck/ffi-polonius/vendor/rustc-hash/LICENSE-APACHE",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "bytes": 10847,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/gcc/rust/checks/errors/borrowck/ffi-polonius/vendor/rustc-hash/LICENSE-MIT",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
+    "bytes": 1023,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/gcc/rust/checks/errors/feature/contrib/copyright-stub.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "0fb317cfe0260cc7dc89216bd69f38117a37636eb9aabe68a7dfa03c854e2360",
+    "bytes": 798,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/gcc/testsuite/gcc.dg/params/LICENSE",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "4919cfb14a73cd64fcef67b107613970cf1659a09aa675dba31314f373bc7204",
+    "bytes": 1901,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/gcc/testsuite/gcc.dg/vect/tsvc/license.txt",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "0bf700c6654f3e72308035d7ebb60abcc486e673ee8a72d19101f80812288f1c",
+    "bytes": 1738,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/include/COPYING",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "231f7edcc7352d7734a96eef0b8030f77982678c516876fcb81e25b32d68564c",
+    "bytes": 18002,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/libcody/LICENSE",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "bytes": 11357,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/libffi/LICENSE",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "a61d06e8f7be57928e71e800eb9273b05cb8868c484108afe41e4305bb320dde",
+    "bytes": 1132,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/libffi/LICENSE-BUILDTOOLS",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "e67978cd18816c0cb7d29aaaacde7b7447402c2fb321a051698890a8eaedda94",
+    "bytes": 18698,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/libgcobol/LICENSE",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "685fba36bb54ab016d4665e3a7eea9807509b091c27f4e3172ad5b45d9f8ee64",
+    "bytes": 1478,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/libgo/LICENSE",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "2d36597f7117c38b006835ae7f537487207d8ec407aa9d9980794b2030cbc067",
+    "bytes": 1479,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/libgo/PATENTS",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "96f408bfae65bf137fc2525d3ecb030271c50c1e90799f87abf8846d8dd505cc",
+    "bytes": 1303,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/libgo/go/golang.org/x/mod/LICENSE",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "2d36597f7117c38b006835ae7f537487207d8ec407aa9d9980794b2030cbc067",
+    "bytes": 1479,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/libgo/go/golang.org/x/mod/PATENTS",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "96f408bfae65bf137fc2525d3ecb030271c50c1e90799f87abf8846d8dd505cc",
+    "bytes": 1303,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/libgo/go/golang.org/x/sync/AUTHORS",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "b82446c166daa6932dc33418961ed7a7f06c5a9fee17e9d214e16079e3442757",
+    "bytes": 173,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/libgo/go/golang.org/x/sync/LICENSE",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "2d36597f7117c38b006835ae7f537487207d8ec407aa9d9980794b2030cbc067",
+    "bytes": 1479,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/libgo/go/golang.org/x/sync/PATENTS",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "96f408bfae65bf137fc2525d3ecb030271c50c1e90799f87abf8846d8dd505cc",
+    "bytes": 1303,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/libgo/go/golang.org/x/tools/LICENSE",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "2d36597f7117c38b006835ae7f537487207d8ec407aa9d9980794b2030cbc067",
+    "bytes": 1479,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/libgo/go/golang.org/x/tools/PATENTS",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "96f408bfae65bf137fc2525d3ecb030271c50c1e90799f87abf8846d8dd505cc",
+    "bytes": 1303,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/libgo/go/golang.org/x/xerrors/LICENSE",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "84d554e7a5d139b7c7b5d6ef0670ae556c4cdcfa354eaad72a1c07c08012c96f",
+    "bytes": 1479,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/libgo/go/golang.org/x/xerrors/PATENTS",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "96f408bfae65bf137fc2525d3ecb030271c50c1e90799f87abf8846d8dd505cc",
+    "bytes": 1303,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/libgrust/libformat_parser/vendor/libc/LICENSE-APACHE",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a",
+    "bytes": 9723,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/libgrust/libformat_parser/vendor/libc/LICENSE-MIT",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "a8d47ff51ca256f56a8932dba07660672dbfe3004257ca8de708aac1415937a1",
+    "bytes": 1076,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/libgrust/libformat_parser/vendor/unicode-xid/COPYRIGHT",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "23860c2a7b5d96b21569afedf033469bab9fe14a1b24a35068b8641c578ce24d",
+    "bytes": 321,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/libgrust/libformat_parser/vendor/unicode-xid/LICENSE-APACHE",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "bytes": 10847,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/libgrust/libformat_parser/vendor/unicode-xid/LICENSE-MIT",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "7b63ecd5f1902af1b63729947373683c32745c16a10e8e6292e2e2dcd7e90ae0",
+    "bytes": 1071,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/libgrust/rustc-lib/LICENSE-APACHE",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a",
+    "bytes": 9723,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/libgrust/rustc-lib/LICENSE-MIT",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
+    "bytes": 1023,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/libgrust/rustc-lib/stdarch/LICENSE-APACHE",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "bytes": 10847,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/libgrust/rustc-lib/stdarch/LICENSE-MIT",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "29662666b44dff84977b46e05642cdef910bc3a93a17b5fd86e632bafa59cf21",
+    "bytes": 1071,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/libgrust/rustc-lib/stdarch/crates/core_arch/LICENSE-APACHE",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "bytes": 10847,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/libgrust/rustc-lib/stdarch/crates/core_arch/LICENSE-MIT",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "29662666b44dff84977b46e05642cdef910bc3a93a17b5fd86e632bafa59cf21",
+    "bytes": 1071,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/libgrust/rustc-lib/stdarch/crates/std_detect/LICENSE-APACHE",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+    "bytes": 10847,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/libgrust/rustc-lib/stdarch/crates/std_detect/LICENSE-MIT",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "29662666b44dff84977b46e05642cdef910bc3a93a17b5fd86e632bafa59cf21",
+    "bytes": 1071,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/libiberty/COPYING.LIB",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "32434afcc8666ba060e111d715bfdb6c2d5dd8a35fa4d3ab8ad67d8f850d2f2b",
+    "bytes": 26440,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/libiberty/copying-lib.texi",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "048be075e2f6468c1f32840499d9970240306fd401570d876aafc4f81327b4d3",
+    "bytes": 26755,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/libphobos/libdruntime/LICENSE.txt",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "c9bff75738922193e67fa726fa225535870d2aa1059f91452c411736284ad566",
+    "bytes": 1338,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/libphobos/src/LICENSE_1_0.txt",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "c9bff75738922193e67fa726fa225535870d2aa1059f91452c411736284ad566",
+    "bytes": 1338,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/libquadmath/COPYING.LIB",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "32434afcc8666ba060e111d715bfdb6c2d5dd8a35fa4d3ab8ad67d8f850d2f2b",
+    "bytes": 26440,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/libsanitizer/LICENSE.TXT",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "74c2b24539a53c34abddb559266d89cb653b0198cd2faf9c04763d3223db7f6d",
+    "bytes": 4506,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/libstdc++-v3/doc/html/manual/license.html",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "6ef2606fad7fce5ba388fef9d8d137178d0135f3d2c538b664229b58eae5ce06",
+    "bytes": 8434,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/libstdc++-v3/doc/xml/authors.xml",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "5300074c44853ce8f728eef46916a8d428edf8147a48f4903a97e43f69d6c2d3",
+    "bytes": 3512,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/libstdc++-v3/include/pstl/LICENSE.txt",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "0ca8cbe9219a841f9bc8fbb1f8ecdf5e39b1b0e23ee10fb6b0c090d8987dd1eb",
+    "bytes": 16700,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/zlib/LICENSE",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "845efc77857d485d91fb3e0b884aaa929368c717ae8186b66fe1ed2495753243",
+    "bytes": 1002,
+    "status": "copied"
+  },
+  {
+    "path": "native/gcc/gcc-16.1.0/zlib/contrib/dotzlib/LICENSE_1_0.txt",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "36266a8fd073568394cb81cdb2b124f7fdae2c64c1a7ed09db34b4d22efa2951",
+    "bytes": 1359,
+    "status": "copied"
+  },
+  {
+    "path": "native/gmp/gmp-6.3.0/AUTHORS",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "da5870e2f0482c5dc15b4cfed8bbfb51ce1279c8f8fc52bdb8c13c7cee949c32",
+    "bytes": 4098,
+    "status": "copied"
+  },
+  {
+    "path": "native/gmp/gmp-6.3.0/COPYING",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+    "bytes": 35147,
+    "status": "copied"
+  },
+  {
+    "path": "native/gmp/gmp-6.3.0/COPYING.LESSERv3",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "a853c2ffec17057872340eee242ae4d96cbf2b520ae27d903e1b2fef1a5f9d1c",
+    "bytes": 7639,
+    "status": "copied"
+  },
+  {
+    "path": "native/gnutls/gnutls-3.8.13/AUTHORS",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "79bca1136dc515b930f2f85975c0c4c687e7d430be27a9b59113637c33b8e7a3",
+    "bytes": 11500,
+    "status": "copied"
+  },
+  {
+    "path": "native/gnutls/gnutls-3.8.13/COPYING",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+    "bytes": 35149,
+    "status": "copied"
+  },
+  {
+    "path": "native/gnutls/gnutls-3.8.13/COPYING.LESSERv2",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "20e50fe7aae3e56378ebf0417d9de904f55a0e61e4df315333e632a4d3555d95",
+    "bytes": 26419,
+    "status": "copied"
+  },
+  {
+    "path": "native/gnutls/gnutls-3.8.13/doc/examples/tlsproxy/LICENSE",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "b42dbe48110754b99f026ad30e69b1069f826fb07e7c616b526bd1090952fb1b",
+    "bytes": 1090,
+    "status": "copied"
+  },
+  {
+    "path": "native/gnutls/gnutls-3.8.13/lib/accelerated/x86/license.txt",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "0c35a52bcfa4da2f0df4a1282a6034e211c976b8b6d43691a639eef9c8aebf7e",
+    "bytes": 2463,
+    "status": "copied"
+  },
+  {
+    "path": "native/gnutls/gnutls-3.8.13/lib/crau/LICENSE",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "b3c9aed2f5750f6bf698c74916d675d1734e12455b96bfdf6f90e23ab01595cd",
+    "bytes": 1067,
+    "status": "copied"
+  },
+  {
+    "path": "native/gnutls/gnutls-3.8.13/lib/inih/LICENSE.txt",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "9ae3b39e83e9158e44b67733baa3bb2d84e80efdcfb14a5820210a42c7abdf7f",
+    "bytes": 1510,
+    "status": "copied"
+  },
+  {
+    "path": "native/lame/lame-3.100/COPYING",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "bfe4a52dc4645385f356a8e83cc54216a293e3b6f1cb4f79f5fc0277abf937fd",
+    "bytes": 25284,
+    "status": "copied"
+  },
+  {
+    "path": "native/lame/lame-3.100/LICENSE",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "7a40cbd8818c57e5285e83c772a459a996d1662c824a879836b97b473c07cae4",
+    "bytes": 487,
+    "status": "copied"
+  },
+  {
+    "path": "native/lame/lame-3.100/debian/copyright",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "1f27f9f698183275bd615c1140b7bf6e498750e9280597c6eb39790e54ae809b",
+    "bytes": 2303,
+    "status": "copied"
+  },
+  {
+    "path": "native/lame/lame-3.100/mpglib/AUTHORS",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "d8ecf9556aafa8c653796d6be3dc43deea374257680e21c30109a5c3c4484263",
+    "bytes": 604,
+    "status": "copied"
+  },
+  {
+    "path": "native/libiconv/libiconv-1.19/AUTHORS",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "ed10ef2a01effb12849006d43262ffde5cf72a7d5423bbc8aa66fc6959774c0c",
+    "bytes": 31,
+    "status": "copied"
+  },
+  {
+    "path": "native/libiconv/libiconv-1.19/COPYING",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+    "bytes": 35147,
+    "status": "copied"
+  },
+  {
+    "path": "native/libiconv/libiconv-1.19/COPYING.LIB",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "20e50fe7aae3e56378ebf0417d9de904f55a0e61e4df315333e632a4d3555d95",
+    "bytes": 26419,
+    "status": "copied"
+  },
+  {
+    "path": "native/libiconv/libiconv-1.19/libcharset/AUTHORS",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "ed10ef2a01effb12849006d43262ffde5cf72a7d5423bbc8aa66fc6959774c0c",
+    "bytes": 31,
+    "status": "copied"
+  },
+  {
+    "path": "native/libiconv/libiconv-1.19/libcharset/COPYING.LIB",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "20e50fe7aae3e56378ebf0417d9de904f55a0e61e4df315333e632a4d3555d95",
+    "bytes": 26419,
+    "status": "copied"
+  },
+  {
+    "path": "native/libsvtav1/SVT-AV1-v4.1.0/LICENSE-BSD2.md",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "c582fcbeb9cf972a60d298bfaf41dc5adff2dd14208946edcb9bb56a281e8438",
+    "bytes": 1316,
+    "status": "copied"
+  },
+  {
+    "path": "native/libsvtav1/SVT-AV1-v4.1.0/LICENSE.md",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "0acc2fcb27472bdc9aaf8b71f37055bbdac4f54671b7d922f241bd7fcd0dd3e6",
+    "bytes": 1709,
+    "status": "copied"
+  },
+  {
+    "path": "native/libsvtav1/SVT-AV1-v4.1.0/PATENTS.md",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "20678ab10402659106dc4c147c97b2a6e94b5c0695415e15a8f195ebc3547922",
+    "bytes": 5767,
+    "status": "copied"
+  },
+  {
+    "path": "native/libsvtav1/SVT-AV1-v4.1.0/third_party/fastfeat/LICENSE",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "043dcfd059386f9facd376351b2bd79325778744aa442177390cdfcca54babed",
+    "bytes": 1506,
+    "status": "copied"
+  },
+  {
+    "path": "native/libsvtav1/SVT-AV1-v4.1.0/third_party/safestringlib/LICENSE",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "c0f99a208799ca20c9ccf31a30533d49334eb458dca5a3d14f9afe3e884e5d7d",
+    "bytes": 2247,
+    "status": "copied"
+  },
+  {
+    "path": "native/libvpl/libvpl-2.16.0/LICENSE",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "bf1cfac2e2792b6e1e995ce103d70796aecaf2ec7e4c5fe5474f7acec7b4a677",
+    "bytes": 1074,
+    "status": "copied"
+  },
+  {
+    "path": "native/libvpl/libvpl-2.16.0/examples/api1x_core/legacy-decode/License.txt",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "2e35006c345787f7205bdaa86920c8fac86abd19b95d7b4c1ba5531853ea3938",
+    "bytes": 1052,
+    "status": "copied"
+  },
+  {
+    "path": "native/libvpl/libvpl-2.16.0/examples/api1x_core/legacy-encode/License.txt",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "2e35006c345787f7205bdaa86920c8fac86abd19b95d7b4c1ba5531853ea3938",
+    "bytes": 1052,
+    "status": "copied"
+  },
+  {
+    "path": "native/libvpl/libvpl-2.16.0/examples/api1x_core/legacy-vpp/License.txt",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "2e35006c345787f7205bdaa86920c8fac86abd19b95d7b4c1ba5531853ea3938",
+    "bytes": 1052,
+    "status": "copied"
+  },
+  {
+    "path": "native/libvpl/libvpl-2.16.0/examples/api2x/hello-decode/License.txt",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "2e35006c345787f7205bdaa86920c8fac86abd19b95d7b4c1ba5531853ea3938",
+    "bytes": 1052,
+    "status": "copied"
+  },
+  {
+    "path": "native/libvpl/libvpl-2.16.0/examples/api2x/hello-decvpp/License.txt",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "2e35006c345787f7205bdaa86920c8fac86abd19b95d7b4c1ba5531853ea3938",
+    "bytes": 1052,
+    "status": "copied"
+  },
+  {
+    "path": "native/libvpl/libvpl-2.16.0/examples/api2x/hello-encode-jpeg/License.txt",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "2e35006c345787f7205bdaa86920c8fac86abd19b95d7b4c1ba5531853ea3938",
+    "bytes": 1052,
+    "status": "copied"
+  },
+  {
+    "path": "native/libvpl/libvpl-2.16.0/examples/api2x/hello-encode/License.txt",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "2e35006c345787f7205bdaa86920c8fac86abd19b95d7b4c1ba5531853ea3938",
+    "bytes": 1052,
+    "status": "copied"
+  },
+  {
+    "path": "native/libvpl/libvpl-2.16.0/examples/api2x/hello-sharing-dx11/License.txt",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "2e35006c345787f7205bdaa86920c8fac86abd19b95d7b4c1ba5531853ea3938",
+    "bytes": 1052,
+    "status": "copied"
+  },
+  {
+    "path": "native/libvpl/libvpl-2.16.0/examples/api2x/hello-sharing-ocl/License.txt",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "2e35006c345787f7205bdaa86920c8fac86abd19b95d7b4c1ba5531853ea3938",
+    "bytes": 1052,
+    "status": "copied"
+  },
+  {
+    "path": "native/libvpl/libvpl-2.16.0/examples/api2x/hello-sharing-vaapi/License.txt",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "2e35006c345787f7205bdaa86920c8fac86abd19b95d7b4c1ba5531853ea3938",
+    "bytes": 1052,
+    "status": "copied"
+  },
+  {
+    "path": "native/libvpl/libvpl-2.16.0/examples/api2x/hello-transcode/License.txt",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "2e35006c345787f7205bdaa86920c8fac86abd19b95d7b4c1ba5531853ea3938",
+    "bytes": 1052,
+    "status": "copied"
+  },
+  {
+    "path": "native/libvpl/libvpl-2.16.0/examples/api2x/hello-vpp/License.txt",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "2e35006c345787f7205bdaa86920c8fac86abd19b95d7b4c1ba5531853ea3938",
+    "bytes": 1052,
+    "status": "copied"
+  },
+  {
+    "path": "native/libvpl/libvpl-2.16.0/examples/interop/vpl-infer/License.txt",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "2e35006c345787f7205bdaa86920c8fac86abd19b95d7b4c1ba5531853ea3938",
+    "bytes": 1052,
+    "status": "copied"
+  },
+  {
+    "path": "native/libvpl/libvpl-2.16.0/examples/tutorials/01_transition/License.txt",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "2e35006c345787f7205bdaa86920c8fac86abd19b95d7b4c1ba5531853ea3938",
+    "bytes": 1052,
+    "status": "copied"
+  },
+  {
+    "path": "native/libvpl/libvpl-2.16.0/libvpl/test/ext/googletest/LICENSE",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "9702de7e4117a8e2b20dafab11ffda58c198aede066406496bef670d40a22138",
+    "bytes": 1475,
+    "status": "copied"
+  },
+  {
+    "path": "native/mingw-w64-reference/mingw-w64-5ea8e9facd013b815f5f29f20ef26a566319a3de/AUTHORS",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "8f308316e7a94b8410f871868bd3948f126526dc1775aeee97a0e365f9a0fd9f",
+    "bytes": 2398,
+    "status": "copied"
+  },
+  {
+    "path": "native/mingw-w64-reference/mingw-w64-5ea8e9facd013b815f5f29f20ef26a566319a3de/COPYING",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "99a69660981156c21336fdb5661f89341b013c94e4bf9e1c7467b4745718397f",
+    "bytes": 2326,
+    "status": "copied"
+  },
+  {
+    "path": "native/mingw-w64-reference/mingw-w64-5ea8e9facd013b815f5f29f20ef26a566319a3de/COPYING.MinGW-w64-runtime/COPYING.MinGW-w64-runtime.txt",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "1db8da07b436c68833c0673ffee3d9fcb2526047f3820b81661865dfedc79a1f",
+    "bytes": 12155,
+    "status": "copied"
+  },
+  {
+    "path": "native/mingw-w64-reference/mingw-w64-5ea8e9facd013b815f5f29f20ef26a566319a3de/COPYING.MinGW-w64/COPYING.MinGW-w64.txt",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "f38e6194bd3bfa1b654f118e5acefe0aead437bbe669eee43957ccc65a7127f1",
+    "bytes": 5905,
+    "status": "copied"
+  },
+  {
+    "path": "native/mingw-w64-reference/mingw-w64-5ea8e9facd013b815f5f29f20ef26a566319a3de/mingw-w64-crt/profile/COPYING",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "dcc100d4161cc0b7177545ab6e47216f84857cda3843847c792a25289852dcaa",
+    "bytes": 18007,
+    "status": "copied"
+  },
+  {
+    "path": "native/mingw-w64-reference/mingw-w64-5ea8e9facd013b815f5f29f20ef26a566319a3de/mingw-w64-libraries/libmangle/COPYING",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "ae7a4090983e6ea0780c60c454016fd5e93b414b0de26ad041608ec66fbb54bb",
+    "bytes": 1109,
+    "status": "copied"
+  },
+  {
+    "path": "native/mingw-w64-reference/mingw-w64-5ea8e9facd013b815f5f29f20ef26a566319a3de/mingw-w64-libraries/pseh/COPYING",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "5ece225da0c7f0dba84dc64d773b5231075e8fee61cbeceb9f774e939918e638",
+    "bytes": 1062,
+    "status": "copied"
+  },
+  {
+    "path": "native/mingw-w64-reference/mingw-w64-5ea8e9facd013b815f5f29f20ef26a566319a3de/mingw-w64-libraries/winpthreads/COPYING",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "63263614cdd29f2f93cba85e992f041b31f9fc7b4033692f31269489a8a1b177",
+    "bytes": 2883,
+    "status": "copied"
+  },
+  {
+    "path": "native/mingw-w64-reference/mingw-w64-5ea8e9facd013b815f5f29f20ef26a566319a3de/mingw-w64-libraries/winstorecompat/COPYING",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "fa7368d1f93d890c173177475d8ec7aff265a7d08f1f364d66f74d138978ce36",
+    "bytes": 1099,
+    "status": "copied"
+  },
+  {
+    "path": "native/mingw-w64-reference/mingw-w64-5ea8e9facd013b815f5f29f20ef26a566319a3de/mingw-w64-tools/gendef/COPYING",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+    "bytes": 35147,
+    "status": "copied"
+  },
+  {
+    "path": "native/mingw-w64-reference/mingw-w64-5ea8e9facd013b815f5f29f20ef26a566319a3de/mingw-w64-tools/genidl/COPYING",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+    "bytes": 35147,
+    "status": "copied"
+  },
+  {
+    "path": "native/mingw-w64-reference/mingw-w64-5ea8e9facd013b815f5f29f20ef26a566319a3de/mingw-w64-tools/genpeimg/COPYING",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+    "bytes": 35147,
+    "status": "copied"
+  },
+  {
+    "path": "native/nasm/nasm-2.16.03/AUTHORS",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "8a7bd0cc6c517a220265548bf2ecf62fe89bf682b6a9938afb7521008679149e",
+    "bytes": 3060,
+    "status": "copied"
+  },
+  {
+    "path": "native/nasm/nasm-2.16.03/LICENSE",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "1563996c52e220e15ef2418e67d39488255aa8c28c89e617074d3afe3ee329e0",
+    "bytes": 1521,
+    "status": "copied"
+  },
+  {
+    "path": "native/nettle/nettle-3.10.2/AUTHORS",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "6fd91e60caa0c33dd22888b710fcfa36532bbbef00d85c78de385dcd97f7b9ee",
+    "bytes": 4267,
+    "status": "copied"
+  },
+  {
+    "path": "native/nettle/nettle-3.10.2/COPYING.LESSERv3",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "a853c2ffec17057872340eee242ae4d96cbf2b520ae27d903e1b2fef1a5f9d1c",
+    "bytes": 7639,
+    "status": "copied"
+  },
+  {
+    "path": "native/nv-codec-headers/nv-codec-headers-n13.0.19.0/include/ffnvcodec/dynlink_cuda.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "2c74cf9b0ace0503ca18d2c43645d6cb1ec0dd7ea7163f7880bba5141586f275",
+    "bytes": 21936,
+    "status": "copied"
+  },
+  {
+    "path": "native/nv-codec-headers/nv-codec-headers-n13.0.19.0/include/ffnvcodec/dynlink_cuviddec.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "1244165ea5521d4be865995eb1c49b8910f755d0ca35004e1c4010ef7f612143",
+    "bytes": 67435,
+    "status": "copied"
+  },
+  {
+    "path": "native/nv-codec-headers/nv-codec-headers-n13.0.19.0/include/ffnvcodec/dynlink_loader.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "307713c9e46ab1d3fcb9c456dde8da2967a11003d951cd0efdf1329678ff0934",
+    "bytes": 22613,
+    "status": "copied"
+  },
+  {
+    "path": "native/nv-codec-headers/nv-codec-headers-n13.0.19.0/include/ffnvcodec/dynlink_nvcuvid.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "2141dade75f3178520092dce2c02df9b47c4b19036b56bb9316bd83a07bf16f1",
+    "bytes": 30949,
+    "status": "copied"
+  },
+  {
+    "path": "native/nv-codec-headers/nv-codec-headers-n13.0.19.0/include/ffnvcodec/nvEncodeAPI.h",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "4fe4094541ef0f8a13249d97a8692dc5f835a6e9dd42eeadb3e2f7321d54dc7e",
+    "bytes": 311883,
+    "status": "copied"
+  },
+  {
+    "path": "native/opencore-amr/opencore-amr-0.1.6/LICENSE",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "8b3f1762349248d444ab9acbafe73941254e36e1064954da56bb9ddbd5873ddb",
+    "bytes": 10271,
+    "status": "copied"
+  },
+  {
+    "path": "native/opencore-amr/opencore-amr-0.1.6/opencore/NOTICE",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "d106802b5e406073c1d10fbe9f638234c6973ebce37df71773179642085eb489",
+    "bytes": 12498,
+    "status": "copied"
+  },
+  {
+    "path": "native/opus/opus-1.6.1/AUTHORS",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "f9fd849e652219ce98e008303370b352d37663d0ffb27b8dc514ad93c9c7438b",
+    "bytes": 239,
+    "status": "copied"
+  },
+  {
+    "path": "native/opus/opus-1.6.1/COPYING",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "01e1167d54a096d123cf6dfbbeb19587278845c6481d2d66d545669846079551",
+    "bytes": 1945,
+    "status": "copied"
+  },
+  {
+    "path": "native/png/libpng-1.6.58/AUTHORS",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "0c777e9f2a67bd4058ab91050eb7a56106c92ed038ba8fe5f54c83344f2d93ca",
+    "bytes": 1773,
+    "status": "copied"
+  },
+  {
+    "path": "native/png/libpng-1.6.58/LICENSE",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "bdb0a645ea18c60507d0368379b1ac5474b92255fcc2d115e07486a7672ba526",
+    "bytes": 5345,
+    "status": "copied"
+  },
+  {
+    "path": "native/png/libpng-1.6.58/ci/LICENSE_MIT.txt",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "508a77d2e7b51d98adeed32648ad124b7b30241a8e70b2e72c99f92d8e5874d1",
+    "bytes": 1036,
+    "status": "copied"
+  },
+  {
+    "path": "native/png/libpng-1.6.58/contrib/gregbook/COPYING",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "d6cb0e9e560f51085556949a84af12b79a00f10ab8b66c752537faf7cd665572",
+    "bytes": 18097,
+    "status": "copied"
+  },
+  {
+    "path": "native/png/libpng-1.6.58/contrib/gregbook/LICENSE",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "b6a03c1803eb58ffb1f1278d5c7d4096c4c116e66dce8a7553e8c77d163c3438",
+    "bytes": 2373,
+    "status": "copied"
+  },
+  {
+    "path": "native/png/libpng-1.6.58/contrib/pngexif/LICENSE_MIT.txt",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "508a77d2e7b51d98adeed32648ad124b7b30241a8e70b2e72c99f92d8e5874d1",
+    "bytes": 1036,
+    "status": "copied"
+  },
+  {
+    "path": "native/png/libpng-1.6.58/contrib/pngminus/LICENSE.txt",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "1806f1f10d393e9e377b3a8d1b968452b54f1a90378f14eeef45426946ace330",
+    "bytes": 1164,
+    "status": "copied"
+  },
+  {
+    "path": "native/png/libpng-1.6.58/scripts/cmake/AUTHORS.md",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "50633b976f0133862c921aa67d56de2c0b42eb344c8ca3853686efb092a447db",
+    "bytes": 862,
+    "status": "copied"
+  },
+  {
+    "path": "native/pyav/av-18.1.0/AUTHORS.py",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "4ec6e0dca3d0703aebefb386d3eb6ed14a05d96fe8b0aa08b52c2d2951817fec",
+    "bytes": 5558,
+    "status": "copied"
+  },
+  {
+    "path": "native/pyav/av-18.1.0/AUTHORS.rst",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "adb3a9b35a8b74bb597326dec775d74a9f79b4decac54da266a9ddb20b5da142",
+    "bytes": 5996,
+    "status": "copied"
+  },
+  {
+    "path": "native/pyav/av-18.1.0/LICENSE.txt",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "76af0461ffb92e19f1c14449e95557d83a2dfaa1baf202d49e5f1d8746c0da19",
+    "bytes": 1505,
+    "status": "copied"
+  },
+  {
+    "path": "native/pyav/av-18.1.0/docs/development/license.rst",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "becc70e9cfe7e15d624f6de729fae233f188e22c294d517e7bd98c435ffb304e",
+    "bytes": 246,
+    "status": "copied"
+  },
+  {
+    "path": "native/tqdm/MPL-2.0.txt",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "3f3d9e0024b1921b067d6f7f88deb4a60cbe7a78e76c64e3f1d7fc3b779b9d04",
+    "bytes": 16726,
+    "status": "copied"
+  },
+  {
+    "path": "native/tqdm/tqdm-4.70.1/LICENCE",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "fcff87c3a47ce8028a8512aa182d4fcf0ad1c90544ee75cf9b343684cac194de",
+    "bytes": 1985,
+    "status": "copied"
+  },
+  {
+    "path": "native/unistring/libunistring-1.4.2/AUTHORS",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "9877ee5d24b5fa059fcc3ff2f4af36918f7c5676de000b9cb5ec11efa6aac149",
+    "bytes": 444,
+    "status": "copied"
+  },
+  {
+    "path": "native/unistring/libunistring-1.4.2/COPYING",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+    "bytes": 35149,
+    "status": "copied"
+  },
+  {
+    "path": "native/unistring/libunistring-1.4.2/COPYING.LIB",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "a853c2ffec17057872340eee242ae4d96cbf2b520ae27d903e1b2fef1a5f9d1c",
+    "bytes": 7639,
+    "status": "copied"
+  },
+  {
+    "path": "native/vpx/libvpx-1.16.0/AUTHORS",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "fd2d1ac03d9d3c864bd98c2042de2d8f7fbd78b298c8d9c506076b6c6a9de889",
+    "bytes": 9352,
+    "status": "copied"
+  },
+  {
+    "path": "native/vpx/libvpx-1.16.0/LICENSE",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "8267348d5af1262c11d1a08de2f5afc77457755f1ac658627dd9acf71011d615",
+    "bytes": 1537,
+    "status": "copied"
+  },
+  {
+    "path": "native/vpx/libvpx-1.16.0/PATENTS",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "cc3273e0694ea5896145e0677699b53471b03ea43021ddc50e7923fbb9f5023c",
+    "bytes": 1436,
+    "status": "copied"
+  },
+  {
+    "path": "native/vpx/libvpx-1.16.0/third_party/googletest/src/LICENSE",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "9702de7e4117a8e2b20dafab11ffda58c198aede066406496bef670d40a22138",
+    "bytes": 1475,
+    "status": "copied"
+  },
+  {
+    "path": "native/vpx/libvpx-1.16.0/third_party/libwebm/AUTHORS.TXT",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "3edb5f5496bfff3d6d4a62fa75fe996b814920d0d6e348c2e65c589e7ac5d177",
+    "bytes": 137,
+    "status": "copied"
+  },
+  {
+    "path": "native/vpx/libvpx-1.16.0/third_party/libwebm/LICENSE.TXT",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "5aec868f669e384a22372a4e8a1a6cd7d44c64cd451f960ca69cc170d1e13acf",
+    "bytes": 1496,
+    "status": "copied"
+  },
+  {
+    "path": "native/vpx/libvpx-1.16.0/third_party/libwebm/PATENTS.TXT",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "cc3273e0694ea5896145e0677699b53471b03ea43021ddc50e7923fbb9f5023c",
+    "bytes": 1436,
+    "status": "copied"
+  },
+  {
+    "path": "native/vpx/libvpx-1.16.0/third_party/libyuv/LICENSE",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "2b2cc1180c7e6988328ad2033b04b80117419db9c4c584918bbb3cfec7e9364f",
+    "bytes": 1506,
+    "status": "copied"
+  },
+  {
+    "path": "native/vpx/libvpx-1.16.0/third_party/nalloc/LICENSE",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "d7dd0396ec46975e1bf9093680068ef301bc0ed204603e623a6f7073ab922ab1",
+    "bytes": 1069,
+    "status": "copied"
+  },
+  {
+    "path": "native/vpx/libvpx-1.16.0/third_party/x86inc/LICENSE",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "719d8fa235f2068e0ae6d6a7dceb0a7720d7840f0f0ebed29957989e6ded3cd8",
+    "bytes": 936,
+    "status": "copied"
+  },
+  {
+    "path": "native/webp/libwebp-1.6.0/AUTHORS",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "f251be89fd442bd9d701360730aea163cc8e2076ff03528f59267dc2c4f8b60a",
+    "bytes": 3279,
+    "status": "copied"
+  },
+  {
+    "path": "native/webp/libwebp-1.6.0/COPYING",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "5aec868f669e384a22372a4e8a1a6cd7d44c64cd451f960ca69cc170d1e13acf",
+    "bytes": 1496,
+    "status": "copied"
+  },
+  {
+    "path": "native/webp/libwebp-1.6.0/PATENTS",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "cc3273e0694ea5896145e0677699b53471b03ea43021ddc50e7923fbb9f5023c",
+    "bytes": 1436,
+    "status": "copied"
+  },
+  {
+    "path": "native/x264-readme-alternate/x264-32c3b801191522961102d4bea292cdb61068d0dd/AUTHORS",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "783150c1bef404fc7140924f3006eff27c940ea73ef38b3bc76fcb9c173229a5",
+    "bytes": 1999,
+    "status": "copied"
+  },
+  {
+    "path": "native/x264-readme-alternate/x264-32c3b801191522961102d4bea292cdb61068d0dd/COPYING",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "32b1062f7da84967e7019d01ab805935caa7ab7321a7ced0e30ebe75e5df1670",
+    "bytes": 17992,
+    "status": "copied"
+  },
+  {
+    "path": "native/x264/x264-b35605ace3ddf7c1a5d67a2eb553f034aef41d55/AUTHORS",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "783150c1bef404fc7140924f3006eff27c940ea73ef38b3bc76fcb9c173229a5",
+    "bytes": 1999,
+    "status": "copied"
+  },
+  {
+    "path": "native/x264/x264-b35605ace3ddf7c1a5d67a2eb553f034aef41d55/COPYING",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "32b1062f7da84967e7019d01ab805935caa7ab7321a7ced0e30ebe75e5df1670",
+    "bytes": 17992,
+    "status": "copied"
+  },
+  {
+    "path": "native/x265/x265_4.2/COPYING",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "d8afb1bcc7a2cfc603683b168d6987ef0a48e59e0da3693bf55c5d33b67e2b49",
+    "bytes": 18120,
+    "status": "copied"
+  },
+  {
+    "path": "native/x265/x265_4.2/source/dynamicHDR10/LICENSE.txt",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "47f15d63e82eb8a4de6e46471d5f96cf6d052fd5355944a002c3157880248b69",
+    "bytes": 849,
+    "status": "copied"
+  },
+  {
+    "path": "native/x265/x265_4.2/source/dynamicHDR10/json11/LICENSE.txt",
+    "origin": "Pinned native component source archive; see SOURCE_MANIFEST.json in ThirdParty-Sources-0.3.1.zip",
+    "sha256": "950e288a2548cb33f6a90d23958806b0803f510ab17c600d661619a73ae3a6c8",
+    "bytes": 1057,
+    "status": "copied"
+  },
+  {
+    "path": "ncurses-5.9-NOTICE.txt",
+    "url": "https://ftp.gnu.org/gnu/ncurses/ncurses-5.9.tar.gz",
+    "archive_sha256": "9046298fb440324c9d4135ecea7879ffed8546dd1b58e59430ea07a4633f563b",
+    "archive_member": "ncurses-5.9/include/curses.h.in",
+    "scope": "Full unchanged copyright and permission block from source header",
+    "sha256": "3dba93abfd04310c1530467fd3a9e57fe201550290a2c5ed9f4c7a7af160fdae",
+    "bytes": 2107,
+    "status": "copied"
+  },
+  {
+    "path": "oneDNN-3.1.1-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/oneapi-src/oneDNN/v3.1.1/LICENSE",
+    "sha256": "dd12452e1ae11e3282271aa5895d8175296b83e936a027209f9399d26a407d0f",
+    "bytes": 11521,
+    "status": "copied"
+  },
+  {
+    "path": "onnxruntime-1.23.2-onnxruntime--LICENSE",
+    "wheel_member": "onnxruntime/LICENSE",
+    "url": "https://files.pythonhosted.org/packages/44/be/467b00f09061572f022ffd17e49e49e5a7a789056bad95b54dfd3bee73ff/onnxruntime-1.23.2-cp311-cp311-macosx_13_0_arm64.whl",
+    "version": "1.23.2",
+    "wheel_sha256": "6f91d2c9b0965e86827a5ba01531d5b669770b01775b23199565d6c1f136616c",
+    "sha256": "2f07c72751aed99790b8a4869cf2311df85a860b22ded05fa22803587a48922c",
+    "bytes": 1073,
+    "status": "copied"
+  },
+  {
+    "path": "onnxruntime-1.23.2-onnxruntime--ThirdPartyNotices.txt",
+    "wheel_member": "onnxruntime/ThirdPartyNotices.txt",
+    "url": "https://files.pythonhosted.org/packages/44/be/467b00f09061572f022ffd17e49e49e5a7a789056bad95b54dfd3bee73ff/onnxruntime-1.23.2-cp311-cp311-macosx_13_0_arm64.whl",
+    "version": "1.23.2",
+    "wheel_sha256": "6f91d2c9b0965e86827a5ba01531d5b669770b01775b23199565d6c1f136616c",
+    "sha256": "e9e90971a8e75a9a8ac0c6412e29c1202d079998389915aa485f46c816c3b4cc",
+    "bytes": 326866,
+    "status": "copied"
+  },
+  {
+    "path": "onnxruntime-1.31.1-onnxruntime--LICENSE",
+    "wheel_member": "onnxruntime/LICENSE",
+    "url": "https://files.pythonhosted.org/packages/69/82/2e2bf967ade9567d77c307533566ef56a19c32e2114fc062a405703def88/onnxruntime-1.31.1-cp311-cp311-win_amd64.whl",
+    "version": "1.31.1",
+    "wheel_sha256": "c3d91b5de31e2fc82d71bd65b2b22bddee8b49057a3a36338e9a868e0ea90c05",
+    "sha256": "c250d6278f0b47a6439fb7592b08b58a55eb9f535aa49a1db63211c3f982b674",
+    "bytes": 1094,
+    "status": "copied"
+  },
+  {
+    "path": "onnxruntime-1.31.1-onnxruntime--ThirdPartyNotices.txt",
+    "wheel_member": "onnxruntime/ThirdPartyNotices.txt",
+    "url": "https://files.pythonhosted.org/packages/69/82/2e2bf967ade9567d77c307533566ef56a19c32e2114fc062a405703def88/onnxruntime-1.31.1-cp311-cp311-win_amd64.whl",
+    "version": "1.31.1",
+    "wheel_sha256": "c3d91b5de31e2fc82d71bd65b2b22bddee8b49057a3a36338e9a868e0ea90c05",
+    "sha256": "c53a76501ef60db6f865f20599f220761201ac4057683acefdab37d861b86622",
+    "bytes": 344457,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/PyYAML-licenses-LICENSE",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "8d3928f9dc4490fd635707cb88eb26bd764102a7282954307d3e5167a577e8a4",
+    "bytes": 1101,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/altgraph-altgraph-0.17.5.dist-info-LICENSE",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "6c194d6db0c64d45535d10c95142b9b0cda7b7dcc7f1ddee302b3d536f3dbe46",
+    "bytes": 1002,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/anyio-licenses-LICENSE",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "5361ac9dc58f2ef5fd2e9b09c68297c17f04950909bbc8023bdb82eacf22c2b0",
+    "bytes": 1081,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/av-licenses-LICENSE.txt",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "f32ebcb6007dcc05eea369b3820e6391b0a7ef1ed763f30f1aca15dfdbacbe96",
+    "bytes": 1528,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/certifi-licenses-LICENSE",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "e93716da6b9c0d5a4a1df60fe695b370f0695603d21f6f83f053e42cfc10caf7",
+    "bytes": 989,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/click-licenses-LICENSE.txt",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "9a8ad106a394e853bfe21f42f4e72d592819a22805d991b5f3275029292b658d",
+    "bytes": 1475,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/colorama-licenses-LICENSE.txt",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "cac35c02686e5d04a5a7140bfb3b36e73aed496656e891102e428886d7930318",
+    "bytes": 1491,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/coloredlogs-coloredlogs-15.0.1.dist-info-LICENSE.txt",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "0bef4ffb1855b65570304f2018c6d44e4bab97bd5df8716ecd7800014d717267",
+    "bytes": 1056,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/faster-whisper-faster_whisper-1.2.1.dist-info-LICENSE",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "af6798135e729f8aa6c853936d037dfdea449734d26b8ea6a89805fca758c0d5",
+    "bytes": 1064,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/filelock-licenses-LICENSE",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "608c89d5060ae9921adccf3236695bc654a9946e12323ef6c021dfa04e294d48",
+    "bytes": 1088,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/fsspec-licenses-LICENSE",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "2dc35496ce53a7307915c008a844aad53e772b49b34cdd00445067691407ec94",
+    "bytes": 1513,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/h11-licenses-LICENSE.txt",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "37db5bb85926db28a427a25867f10b1232003aea1be69ccb851138adb8e6f361",
+    "bytes": 1124,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/hf-xet-licenses-LICENSE",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "1eb85fc97224598dad1852b5d6483bbcf0aa8608790dcc657a5a2a761ae9c8c6",
+    "bytes": 11558,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/httpcore2-licenses-LICENSE.md",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "c4df125c807b0613501e943a5c92496dd11d2c16604ce396097a8dde396304d9",
+    "bytes": 1599,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/httpx2-licenses-LICENSE.md",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "7e7d6dbaf7fe160d39fd6e84fd02c33cab96bcbea34d36998d545bceb4a19c30",
+    "bytes": 1589,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/huggingface_hub-licenses-LICENSE",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "bytes": 11357,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/humanfriendly-humanfriendly-10.0.dist-info-LICENSE.txt",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "4ac48f4117809f2734066150450f120b3bb110ac1d3b32170795e0560dbbc1f5",
+    "bytes": 1056,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/idna-licenses-LICENSE.md",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "1a9a4f0e3d479a27240ddd59a9137a66ab4a0f9dfdc8ca6188cc0bfd85187f04",
+    "bytes": 1541,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/macOS-av-licenses-LICENSE.txt",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "76af0461ffb92e19f1c14449e95557d83a2dfaa1baf202d49e5f1d8746c0da19",
+    "bytes": 1505,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/macOS-hf-xet-licenses-LICENSE",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "bytes": 11357,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/macOS-numpy-distributions-LICENSE.md",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "469778be8f33d54e1bcaab28c281cc472916d2d273f835e55bc487d30503face",
+    "bytes": 2745,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/macOS-numpy-highway-LICENSE",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "e340270d4f64384569a91d546acb5b094d69ce47f0c015db77abb74dc6f815af",
+    "bytes": 20785,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/macOS-numpy-lapack_lite-LICENSE.txt",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "a14cc25e10d40a3aa705b7de2fb764a6535d8ee9b2db4e1724900585457dfd55",
+    "bytes": 2266,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/macOS-numpy-libdivide-LICENSE.txt",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "fbc539f47d0cf83bc61378080fb873d5c14630126cacbfe754035c3926daa5ec",
+    "bytes": 1018,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/macOS-numpy-licenses-LICENSE.txt",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "649a589ab31076e79e9ce62ba24eae9959598124176640dbc95f87bd10f34fcf",
+    "bytes": 46826,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/macOS-numpy-ma-LICENSE",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "05f3b88351988ecfad10abe92c0c50e5875c6452d5009a0084cc291551ffcca6",
+    "bytes": 1593,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/macOS-numpy-mt19937-LICENSE.md",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "0e111337b25494a773106695f0e799f642b8567aaacca4f116a74a8177179156",
+    "bytes": 2926,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/macOS-numpy-multiarray-dragon4_LICENSE.txt",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "f7b14309e5f54e5022b26448eefd419988ada2aec01d3c1162d84a0ea8f21f2c",
+    "bytes": 1414,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/macOS-numpy-pcg64-LICENSE.md",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "e7d4f4fb20358f314210a892ae17351e04993813646f697ec387385ca2a36918",
+    "bytes": 1154,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/macOS-numpy-philox-LICENSE.md",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "6f5828a57223d4cc7f8ea505a2623e7b978b242752c1515e355f46ba2cec1800",
+    "bytes": 1509,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/macOS-numpy-pocketfft-LICENSE.md",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "a85ca13fdf90160b64a0698215868c13b74d835ad0a4e2ba44713b8c5058a056",
+    "bytes": 1498,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/macOS-numpy-pythoncapi-compat-COPYING",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "3f2c1ffa76383a55ae0aac01c9737cd70050dff63e1f026694fbe9d662573c98",
+    "bytes": 690,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/macOS-numpy-random-LICENSE.md",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "103166b62b80443afb9eb3488e052ea06be0cff566b908f199e561fde49af19f",
+    "bytes": 3511,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/macOS-numpy-sfc64-LICENSE.md",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "9d4098846018319cd68e228ee6220361787f73bccbf00237a85e4fc9621b998f",
+    "bytes": 1226,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/macOS-numpy-splitmix64-LICENSE.md",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "268b0ca06759d31ea3ca68dd35f20e877916e927b1c2a835e4592a3c4354b1f9",
+    "bytes": 332,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/macOS-numpy-svml-LICENSE",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "c17011467b4fe6e20fbfbeda4df09e58c2bca5480a063e55735a4000a379aad9",
+    "bytes": 1543,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/macOS-numpy-x86-simd-sort-LICENSE.md",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "211e7d737d6179a08f791ebb0a99897ce7cd2457410c542876d125576edfe910",
+    "bytes": 1514,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/macholib-macholib-1.16.4.dist-info-LICENSE",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "47082ab2bc0184123ec9f10fdf80c70723ee68f07d44382e17615c2a6ba70b09",
+    "bytes": 1113,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/mpmath-mpmath-1.3.0.dist-info-LICENSE",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "c26cae81da4508e5e249985777a33821f183223ebb74d7f8cfbf90fe7eef2fb7",
+    "bytes": 1537,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/numpy-distributions-LICENSE.md",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "cf5619f25b112d5ce7c896efffc8e610bcb345dfadcc19f2c1460aa48fff2c9e",
+    "bytes": 2805,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/numpy-highway-LICENSE",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "d208152e2777ffd0126eacc1bd21c0320d69e4e6b622d21a2a12a47e8ef73763",
+    "bytes": 21155,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/numpy-lapack_lite-LICENSE.txt",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "19060ef465e1797d682ee0fc3081bd25ab1395e995e43d25c9d13c95d9a3cd6b",
+    "bytes": 2314,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/numpy-libdivide-LICENSE.txt",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "d544761558b510866c21f7e8a2d5716fca76e0b98117e3b6b86314db7244d150",
+    "bytes": 1039,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/numpy-licenses-LICENSE.txt",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "a804dff0ead9fadc5293456410bcbfc32bf024be9c4513459663fb7b442d2341",
+    "bytes": 45831,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/numpy-ma-LICENSE",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "d78dbb208b80d92b4d333e41a4baae50d12444f46e53199fa7726a91de6e2da7",
+    "bytes": 1616,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/numpy-mt19937-LICENSE.md",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "92c10699884321f1c2947fe2a70ab23b0fbf1507f756d89dd08f38c61fc3d4fa",
+    "bytes": 2986,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/numpy-multiarray-dragon4_LICENSE.txt",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "b0fd592d4ead563148e3977e7b589169d46a5ef2ff133c755a81af880a3fc919",
+    "bytes": 1441,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/numpy-pcg64-LICENSE.md",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "41190663b77bee5302386495a07b7eabfbfa571aa0ae2f11da6764162062fc4f",
+    "bytes": 1176,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/numpy-philox-LICENSE.md",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "322ac46d870c8aeead6c53adcccc839296fb3c8e456eae155081297daf7f8013",
+    "bytes": 1540,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/numpy-pocketfft-LICENSE.md",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "8db000e158c162e7249787852d8c69764706502ccee725c06641b31c1e95c8af",
+    "bytes": 1523,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/numpy-pythoncapi-compat-COPYING",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "aea41976c720f91bd19725c16916a1ace40eb1ea42620d340e587a5de4bbcea0",
+    "bytes": 704,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/numpy-random-LICENSE.md",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "b4bc2f4fa1c95778f1ed3dd8f14706bece399475b978f9f34b5d3cd72521b48a",
+    "bytes": 3582,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/numpy-sfc64-LICENSE.md",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "28cad82ce1379dc529df30da78ec012d7d0d1d576b03ddcb93388aee53659f59",
+    "bytes": 1253,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/numpy-splitmix64-LICENSE.md",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "454ec7350e478e037061850b67395753b425b1cb0a34bbc26290b020bf89d763",
+    "bytes": 340,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/numpy-svml-LICENSE",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "585483905b13d4b42f800c55ba99e89d6e2e33ccd5f503e201c07531d148ff41",
+    "bytes": 1573,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/numpy-x86-simd-sort-LICENSE.md",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "a732977853530066790c42817087f4829b518dd98d340c916acbfd227e39d3cb",
+    "bytes": 1542,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/packaging-licenses-LICENSE",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "cad1ef5bd340d73e074ba614d26f7deaca5c7940c3d8c34852e65c4909686c48",
+    "bytes": 197,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/packaging-licenses-LICENSE.APACHE",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594",
+    "bytes": 10174,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/packaging-licenses-LICENSE.BSD",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "b70e7e9b742f1cc6f948b34c16aa39ffece94196364bc88ff0d2180f0028fac5",
+    "bytes": 1344,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/pefile-pefile-2024.8.26.dist-info-LICENSE",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "b44409c067c6da52bfb54bb6624fb11a7b52157c3a13ae1400232f8196e86ad3",
+    "bytes": 1083,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/pip-cachecontrol-LICENSE.txt",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "86eeee87be2a43f3ff1f56496f451f69243926f025fedbb033666c304c4c161b",
+    "bytes": 558,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/pip-certifi-LICENSE",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "e93716da6b9c0d5a4a1df60fe695b370f0695603d21f6f83f053e42cfc10caf7",
+    "bytes": 989,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/pip-distlib-LICENSE.txt",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "808e10c8a6ab8deb149ff9b3fb19f447a808094606d712a9ca57fead3552599d",
+    "bytes": 14531,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/pip-distro-LICENSE",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "cb5e8e7e5f4a3988e1063c142c60dc2df75605f4c46515e776e3aca6df976e14",
+    "bytes": 11325,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/pip-idna-LICENSE.md",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "1a9a4f0e3d479a27240ddd59a9137a66ab4a0f9dfdc8ca6188cc0bfd85187f04",
+    "bytes": 1541,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/pip-licenses-LICENSE.txt",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "634300a669d49aeae65b12c6c48c924c51a4cdf3d1ff086dc3456dc8bcaa2104",
+    "bytes": 1093,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/pip-msgpack-COPYING",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "492dedba85da5872f78e6091bcd1fea474d660d35acb4dee964b8aab3f007427",
+    "bytes": 614,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/pip-packaging-LICENSE",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "cad1ef5bd340d73e074ba614d26f7deaca5c7940c3d8c34852e65c4909686c48",
+    "bytes": 197,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/pip-packaging-LICENSE.APACHE",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594",
+    "bytes": 10174,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/pip-packaging-LICENSE.BSD",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "b70e7e9b742f1cc6f948b34c16aa39ffece94196364bc88ff0d2180f0028fac5",
+    "bytes": 1344,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/pip-pip-24.0.dist-info-LICENSE.txt",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "634300a669d49aeae65b12c6c48c924c51a4cdf3d1ff086dc3456dc8bcaa2104",
+    "bytes": 1093,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/pip-pkg_resources-LICENSE",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "86da0f01aeae46348a3c3d465195dc1ceccde79f79e87769a64b8da04b2a4741",
+    "bytes": 1023,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/pip-platformdirs-LICENSE",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "29e0fd62e929850e86eb28c3fdccf0cefdf4fa94879011cffb3d0d4bed6d4db6",
+    "bytes": 1089,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/pip-pygments-LICENSE",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "a9d66f1d526df02e29dce73436d34e56e8632f46c275bbdffc70569e882f9f17",
+    "bytes": 1331,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/pip-pyproject_hooks-LICENSE",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "1b22b049b5267d6dfc23a67bf4a84d8ec04b9fdfb1a51d360e42b4342c8b4154",
+    "bytes": 1081,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/pip-requests-LICENSE",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "09e8a9bcec8067104652c168685ab0931e7868f9c8284b66f5ae6edae5f1130b",
+    "bytes": 10142,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/pip-resolvelib-LICENSE",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "f388fd38cad13112c1dc0f669bbe80e7f84541edbafb72f3030d2ca7642c3c9d",
+    "bytes": 751,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/pip-rich-LICENSE",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "deed7c17a4318158190a3ea239cc879a5a50271cebb98ae7025f48fbe58dca15",
+    "bytes": 1056,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/pip-tomli-LICENSE",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "b80816b0d530b8accb4c2211783790984a6e3b61922c2b5ee92f3372ab2742fe",
+    "bytes": 1072,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/pip-tomli_w-LICENSE",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "b80816b0d530b8accb4c2211783790984a6e3b61922c2b5ee92f3372ab2742fe",
+    "bytes": 1072,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/pip-truststore-LICENSE",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "33be7b7e8fa4fd19b1760e1a8ed8a668bdab852c91b692dd41424bcb725a9fca",
+    "bytes": 1086,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/pip-urllib3-LICENSE.txt",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "130e3a64d5fdd5d096a752694634a7d9df284469de86e5732100268041e3d686",
+    "bytes": 1093,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/protobuf-protobuf-7.36.2.dist-info-LICENSE",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "6e5e117324afd944dcf67f36cf329843bc1a92229a8cd9bb573d7a83130fea7d",
+    "bytes": 1732,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/pyinstaller-hooks-contrib-licenses-LICENSE",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "91d0baaff00773038e72c0a1fc9d5d2d38706b7a2b9c04f34296608f931b9cd0",
+    "bytes": 27666,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/pyinstaller-licenses-COPYING.txt",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "0598064c7d2718e38d7914a7d08343b2fa008e3bea9ebba2aa7a6ffa5900dd64",
+    "bytes": 32604,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/pywin32-ctypes-pywin32_ctypes-0.2.3.dist-info-LICENSE.txt",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "dfa83b3e2709adfcdb838d9ad55823ca674abb780e60563d9dd9544ccbf785e9",
+    "bytes": 1644,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/setuptools-setuptools-65.5.0.dist-info-LICENSE",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "db3f0246b1f9278f15845b99fec478b8b506eb76487993722f8c6e254285faf8",
+    "bytes": 1050,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/sherpa-onnx-sherpa_onnx-2.0.1.dist-info-LICENSE",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "3ddf9be5c28fe27dad143a5dc76eea25222ad1dd68934a047064e56ed2fa40c5",
+    "bytes": 11560,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/sherpa_onnx-licenses-LICENSE",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "bytes": 11358,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/sympy-licenses-LICENSE",
+    "origin": "Verified macOS arm64 0.3.1 distribution dependency notices",
+    "sha256": "07a5e9819f727b4986ad2829c7a29a6320d42575f720eb24d71b7fef573a0286",
+    "bytes": 7885,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/tkinterdnd2-licenses-LICENSE",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "cb0b1019296ff5303a64a1611ed9da5fa738127119f7a4f92fedf3e61f572f05",
+    "bytes": 1072,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/truststore-licenses-LICENSE",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "33be7b7e8fa4fd19b1760e1a8ed8a668bdab852c91b692dd41424bcb725a9fca",
+    "bytes": 1086,
+    "status": "copied"
+  },
+  {
+    "path": "packaged/typing_extensions-licenses-LICENSE",
+    "origin": "Verified Windows 0.3.1 distribution dependency notices",
+    "sha256": "3b2f81fe21d181c499c59a256c8e1968455d6689d269aa85373bfb6af41da3bf",
+    "bytes": 13936,
+    "status": "copied"
+  },
+  {
+    "path": "tokenizers-0.23.3-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/huggingface/tokenizers/v0.23.3/LICENSE",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "bytes": 11357,
+    "status": "copied"
+  },
+  {
+    "path": "zlib-1.3.1-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/madler/zlib/v1.3.1/LICENSE",
+    "sha256": "845efc77857d485d91fb3e0b884aaa929368c717ae8186b66fe1ed2495753243",
+    "bytes": 1002,
+    "status": "copied"
+  }
+]
